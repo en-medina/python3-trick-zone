@@ -1,0 +1,16 @@
+
+Hi I am thread #00 and I generate the number 19 in my 00 iteration
+Hi I am thread #04 and I generate the number 97 in my 00 iteration
+Hi I am thread #02 and I generate the number 74 in my 00 iteration
+Hi I am thread #06 and I generate the number 90 in my 00 iteration
+Hi I am thread #08 and I generate the number 16 in my 00 iteration
+Hi I am thread #08 and I generate the number 98 in my 01 iteration
+Hi I am thread #00 and I generate the number 96 in my 01 iteration
+Hi I am thread #06 and I generate the number 55 in my 01 iteration
+Hi I am thread #08 and I generate the number 77 in my 02 iteration
+Hi I am thread #04 and I generate the number 69 in my 01 iteration
+Hi I am thread #06 and I generate the number 70 in my 02 iteration
+Hi I am thread #02 and I generate the number 51 in my 01 iteration
+Hi I am thread #00 and I generate the number 43 in my 02 iteration
+Hi I am thread #04 and I generate the number 94 in my 02 iteration
+Hi I am thread #02 and I generate the number 31 in my 02 iteration
